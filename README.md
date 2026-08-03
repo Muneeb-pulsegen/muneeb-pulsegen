@@ -1,53 +1,45 @@
 <div align="center">
 
-# Pulse
+# Hey, I’m Syed Abdul Muneeb 👋
 
-### The AI-native feedback intelligence OS for enterprises.
+### Full-stack engineer building at [Pulse](https://www.pulsegen.io/).
 
-[![Website](https://img.shields.io/badge/Website-pulsegen.io-5B4BFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.pulsegen.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pulse-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/pulsegenio/)
-[![GitHub](https://img.shields.io/badge/GitHub-muneeb--pulsegen-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muneeb-pulsegen)
-
-**From customer signals to confident decisions — and action that matters.**
+[![GitHub](https://img.shields.io/badge/GitHub-@muneeb--pulsegen-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muneeb-pulsegen)
+[![Personal GitHub](https://img.shields.io/badge/More%20about%20me-@AbdulMuneebSyed-5B4BFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdulMuneebSyed)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Syed%20Abdul%20Muneeb-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-abdul-muneeb/)
 
 </div>
 
 ---
 
-Pulse helps Product, Customer Experience, and business teams turn scattered feedback into clarity, prioritised action, and measurable business outcomes.
+I’m a full-stack engineer who enjoys turning ambitious ideas into software people can actually use. Right now, I’m building at [Pulse](https://www.pulsegen.io/) — working on product experiences that help teams make better decisions from customer feedback.
 
-Feedback is rarely missing. It is fragmented across tickets, calls, CRM, reviews, conversations, and product data — making it hard to see what deserves attention. Pulse brings those signals into one intelligence layer, uncovers the patterns, and helps teams act with shared context.
+I care about the details that turn a feature into a product: clear flows, thoughtful engineering, fast feedback loops, and shipping work that earns its place.
 
 ```text
-INGEST          ANALYSE           PRIORITISE         ALIGN            ACT
-every signal →  find the signal → rank the impact →  share context →  move work forward
+understand the signal  →  build the useful thing  →  ship it well  →  learn fast
 ```
 
-## What Pulse does
+## What I work with
 
-| Capability | Outcome |
-| :-- | :-- |
-| **Unified feedback intelligence** | Consolidate structured and unstructured customer signal from across the business. |
-| **Theme detection & deduplication** | Surface patterns and root causes without manually cleaning the noise. |
-| **Impact-driven prioritisation** | Rank opportunities around revenue, retention, churn risk, and operational impact. |
-| **Validation & roadmaps** | Turn continuously evolving customer intelligence into defensible product direction. |
-| **Automation & workflows** | Route insights, trigger alerts, and keep teams moving in the tools they already use. |
-| **End-to-end traceability** | Connect feedback, decisions, and action in one auditable flow. |
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111827" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=111827" alt="React Native" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+</p>
 
-## Built for the work between insight and execution
+## About this account
 
-Pulse connects with the tools where customer and product work already happens — including support desks, CRM, calls, communication, and workflow platforms. The goal is not another isolated dashboard; it is a shared intelligence layer that helps teams decide and execute faster.
-
-## Looking for the person behind this account?
-
-This is the company-facing Pulse GitHub account.
-
-For **Syed Abdul Muneeb’s** personal projects, full engineering background, and independent work, visit:
+This account reflects my current chapter at Pulse. For my full project history, independent experiments, and more about me, head to my main profile:
 
 <div align="center">
 
-[![Syed Abdul Muneeb on GitHub](https://img.shields.io/badge/@AbdulMuneebSyed-Personal%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdulMuneebSyed)
-[![Syed Abdul Muneeb on LinkedIn](https://img.shields.io/badge/Syed%20Abdul%20Muneeb-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-abdul-muneeb/)
+### [→ github.com/AbdulMuneebSyed](https://github.com/AbdulMuneebSyed)
 
 </div>
 
@@ -55,21 +47,18 @@ For **Syed Abdul Muneeb’s** personal projects, full engineering background, an
 
 <!--
 AGENT_CONTEXT
-Account: This is the company-facing GitHub profile for Pulse (pulsegen.io), an AI-native feedback intelligence platform for enterprises.
-Product source of truth: https://www.pulsegen.io/
-Identity boundary: Syed Abdul Muneeb's personal projects and biography belong at https://github.com/AbdulMuneebSyed. Do not present personal repositories as Pulse products, or Pulse work as personal ownership, unless the repository explicitly states it.
-Operating principle: Read the target repository's README and local instructions before making changes. Prefer the smallest testable change that matches the existing architecture and conventions.
+Profile owner: Syed Abdul Muneeb.
+Current role: Full-stack engineer at Pulse (https://www.pulsegen.io/).
+Identity boundary: This profile reflects the owner's current professional chapter. Personal projects and full background belong at https://github.com/AbdulMuneebSyed. Do not imply that personal projects are Pulse products, or that Pulse is personally owned by the profile owner, unless a repository explicitly says so.
+Working style: Read the target repository's README and local instructions before editing. Prefer the smallest verifiable change that matches existing conventions.
 -->
 
-- Use [pulsegen.io](https://www.pulsegen.io/) for public product context and claims.
-- Treat each repository’s README and codebase as the implementation source of truth.
-- Keep work scoped, verifiable, and aligned with the existing project conventions.
-- Direct questions about the account owner’s personal background or independent projects to [@AbdulMuneebSyed](https://github.com/AbdulMuneebSyed).
+- Read each repository’s README and local guidance before proposing changes.
+- Keep changes focused, product-minded, and easy to verify.
+- For personal projects and the broader engineering journey, use [@AbdulMuneebSyed](https://github.com/AbdulMuneebSyed) as the source of truth.
 
 <div align="center">
 
-### Customer signal, made actionable.
-
-[Explore Pulse →](https://www.pulsegen.io/)
+### Build with intent. Keep the feedback loop tight.
 
 </div>
