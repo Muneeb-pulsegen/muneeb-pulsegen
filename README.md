@@ -66,7 +66,7 @@ My work sits at the intersection of:
 
 ## 🌱 Beyond Pulse
 
-This account represents my current work and engineering journey at Pulse.
+Thi account represents my current work and engineering journey at Pulse.
 
 For my personal projects, experiments, previous work, and broader development journey, visit my main GitHub profile:
 
